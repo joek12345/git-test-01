@@ -10,5 +10,6 @@ public class Test {
         System.out.println("hello China");
         System.out.println("hello ShanDong");
         System.out.println("hello JiNan");
+        System.out.println("hello ShanQing");
     }
 }
